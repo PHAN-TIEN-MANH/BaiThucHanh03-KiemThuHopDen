@@ -20,7 +20,7 @@ source/
 testcases/
 README.md
 
-## Phương pháp kiểm thử
+
 Phân lớp tương đương
 Phân tích giá trị biên
 Kiểm thử dữ liệu hợp lệ
