@@ -18,5 +18,4 @@ Bài thực hành gồm 8 bài toán:
 ```text
 source/
 testcases/
-test-results/
 README.md
