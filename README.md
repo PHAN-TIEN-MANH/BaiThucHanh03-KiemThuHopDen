@@ -19,3 +19,20 @@ Bài thực hành gồm 8 bài toán:
 source/
 testcases/
 README.md
+
+## Phương pháp kiểm thử
+Phân lớp tương đương
+Phân tích giá trị biên
+Kiểm thử dữ liệu hợp lệ
+Kiểm thử dữ liệu không hợp lệ
+Kiểm thử trường hợp đặc biệt
+Kiểm thử ngoại lệ
+GitHub Issues
+Issue #1
+
+Thiết kế test case cho dữ liệu hợp lệ.
+
+Issue #2
+
+Thiết kế test case cho dữ liệu không hợp lệ,
+giá trị biên và trường hợp đặc biệt.
